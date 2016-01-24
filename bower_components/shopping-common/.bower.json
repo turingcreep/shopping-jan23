@@ -1,0 +1,14 @@
+{
+  "name": "shopping-common",
+  "homepage": "https://github.com/turingcreep/shopping-common",
+  "_release": "faa4112d78",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "faa4112d782c5d1a49335c877f7da4abda09ebda"
+  },
+  "_source": "https://github.com/turingcreep/shopping-common.git",
+  "_target": "master",
+  "_originalSource": "https://github.com/turingcreep/shopping-common.git",
+  "_direct": true
+}
