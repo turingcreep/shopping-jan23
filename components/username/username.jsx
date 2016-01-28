@@ -5,4 +5,4 @@ var	UserName = React.createClass({
 });
 
 //Test mount; Uncomment when testing
-React.render(<UserName/>,document.querySelector('body'));
+//React.render(<UserName/>,document.querySelector('body'));
